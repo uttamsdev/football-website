@@ -1,0 +1,18 @@
+.products{
+    width: 330px;
+    height: auto;
+    padding: 14px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgb(0 0 0 / 15%);
+    border-radius: 10px;
+}
+.products img{
+    width: 330px;
+    height: 200px;
+}
+.products a{
+    color: salmon;
+}
+.products h3{
+    color: black;
+}

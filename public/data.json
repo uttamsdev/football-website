@@ -96,6 +96,26 @@
         "img": "https://i.postimg.cc/Vv47wy9R/news-3.webp"
       }
     ]
-  }  
+  } ,
+
+  {
+    "products": [
+      {
+        "name": "UP TO 70% OFF ON CLEATS",
+        "description": "save footware sale.Tap here to see more...",
+        "img":"https://i.postimg.cc/cLN7sRBz/cleats.jpg"
+      },
+      {
+        "name": "UP TO 50% OFF ON FOOTBALL'S",
+        "description": "save footware sale.Tap here to see more...",
+        "img":"https://i.postimg.cc/1t4pnKtr/gloves.jpg"
+      },
+      {
+        "name": "UP TO 80% OFF FAN FAVOURITE'S",
+        "description": "save footware sale.Tap here to see more...",
+        "img":"https://i.postimg.cc/rwJWfHR9/jersey.jpg"
+      }
+    ]
+  }
   
 ]

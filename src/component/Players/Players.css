@@ -16,8 +16,8 @@
   flex-wrap: wrap;
   gap: 60px;
   /* padding: 0px 350px 0px 350px;
-  grid-gap: 60px;
-  margin-bottom: 100px; */
+  grid-gap: 60px;*/
+  margin-bottom: 100px;
 }
 @media (max-width: 688px) {
   .players-container {
