@@ -1,0 +1,25 @@
+.players-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* padding: 0px 350px 0px 350px; */
+  grid-gap: 60px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.players-layout{
+    display: flex;
+    justify-content: center;
+}
+.latest-news {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  /* padding: 0px 350px 0px 350px;
+  grid-gap: 60px;
+  margin-bottom: 100px; */
+}
+@media (max-width: 688px) {
+  .players-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

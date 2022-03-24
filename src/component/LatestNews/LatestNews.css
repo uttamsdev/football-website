@@ -1,0 +1,24 @@
+.news{
+    width: 330px;
+    height: auto;
+    padding: 14px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    cursor: pointer;
+    transition: 0.5s;
+}
+.news img{
+    width: 330px;
+    height: 256px;
+    border-radius: 5px;
+}
+.news img:hover{
+     transform: scale(1.1);
+    transition: 0.5s;
+}
+h2{
+    color: tomato;
+}
+h3{
+        color: rgba(145, 138, 138, 0.39);
+}
