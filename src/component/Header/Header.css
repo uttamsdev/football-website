@@ -36,3 +36,23 @@
     background-color: white;
     color: black;
 }
+
+@media (max-width:688px) {
+  .header{
+    flex-direction: column-reverse;
+    padding: 0;
+    width: 90%;
+    height: auto;
+    padding: 20px;
+    overflow-x: hidden;
+  }
+  .text-title{
+    font-size: 50px;
+    margin: 0px;
+    line-height: 70px;
+  }
+  .header img{
+    width: 100%;
+    height: 100%;
+  }
+}

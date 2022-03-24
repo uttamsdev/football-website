@@ -13,6 +13,7 @@
 .latest-news {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 60px;
   /* padding: 0px 350px 0px 350px;
   grid-gap: 60px;
