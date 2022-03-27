@@ -21,3 +21,9 @@
     background-color: crimson;
     color: white;
 }
+
+@media (max-width:688px) {
+    .footer img{
+        width: 90%;
+    }
+}

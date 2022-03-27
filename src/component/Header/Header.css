@@ -16,6 +16,7 @@
   line-height: 100px;
   color: #fff;
   margin-top: 200px;
+  text-transform: uppercase;
 
 }
 .header button {
@@ -33,6 +34,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 5px;
 
 
 }
@@ -55,24 +57,25 @@
     margin-right: 0;
   }
   .text-title{
-    font-size: 40px;
+    font-size: 35px;
     margin: 0px;
     padding: 0;
     width: 300px;
-    line-height: 70px;
+    line-height: 60px;
     margin-left: 30px;
     text-align: center;
   }
   .header img{
-    width: 80%;
+    width: 95%;
     height: 80%;
-    display: grid;
-    place-items: center;
+   margin-left: 10px;
     /* margin-left: 20px; */
   }
   .header button{
     margin-left: 110px;
     margin-top: 30px;
+    padding: 25px;
+    font-size: 22px;;
   }
 }
 
