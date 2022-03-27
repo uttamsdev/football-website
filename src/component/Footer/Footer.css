@@ -1,0 +1,23 @@
+.footer img{
+    width: 483px;
+    height: 110px;
+}
+
+.footer{
+    display: grid;
+    place-items: center;
+}
+.social-icons .icon{
+    font-size: 25px;
+    margin-right: 20px;
+    padding: 15px;
+    background-color:aliceblue;
+    border-radius: 50%;
+       background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.icon:hover{
+    background-color: crimson;
+    color: white;
+}
